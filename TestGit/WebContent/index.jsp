@@ -34,6 +34,8 @@
 	
 	<input type="button" id="d1">
 	<div id="r1"></div>
+	
+	<div>test</div>
 
 </body>
 </html>
